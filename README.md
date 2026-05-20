@@ -1,20 +1,38 @@
-# SIMULATING LIH MOLECULE USING QUANTUM COMPUTING(WINDOWS VERSION)
+# LiH 3D Interactive Simulation
 
-An interactive 3D simulation and data visualization project for Lithium Hydride (LiH) molecular analysis.
-This project combines real-time 3D rendering, scientific graphs, and simulation datasets to explore LiH molecular behavior and properties. 
+LiH 3D Interactive Simulation is a scientific visualization project for exploring the **Lithium Hydride (LiH)** molecule through interactive 3D graphics and real-time data visualization. The project combines molecular rendering, simulation datasets, and analytical graphs in a modern web-based environment.
 
-Features
-Interactive 3D LiH molecule visualization
-Real-time rotation, zoom, and camera controls
-Scientific graphs and plotted simulation data
-Energy and bond-distance analysis
-Responsive UI for desktop and web
-Exportable datasets and charts
+---
 
-Technologies
-Python
-C/C++
-PLOTLY
-Scientific datasets
-PYBIND11
+## Overview
 
+This project provides:
+
+- Interactive 3D visualization of the LiH molecule
+- Real-time graph rendering and scientific data analysis
+- Molecular bond and energy visualization
+- Responsive desktop-based interface
+
+The simulation is designed for educational, research, and scientific visualization purposes.
+
+---
+
+## Features
+
+- Real-time 3D molecular rendering
+- Interactive camera controls and navigation
+- Dynamic scientific graphs and charts
+- Molecular structure and bond analysis
+- Integrated simulation datasets
+- Clean and responsive UI
+
+---
+
+## Technologies Used
+
+- Dash
+- C/C++
+- Plotly
+- Python
+
+---
