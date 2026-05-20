@@ -1,4 +1,4 @@
-# LiH 3D Interactive Simulation
+# LiH 3D Interactive Simulation (WINDOWS VERSION)
 
 LiH 3D Interactive Simulation is a scientific visualization project for exploring the **Lithium Hydride (LiH)** molecule through interactive 3D graphics and real-time data visualization. The project combines molecular rendering, simulation datasets, and analytical graphs in a modern web-based environment.
 
