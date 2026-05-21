@@ -1,4 +1,4 @@
-<img width="1254" height="1254" alt="icon_app" src="https://github.com/user-attachments/assets/4f0286c7-65fb-49fc-9ff8-e062fbcf5a2a" />
+<img width="256" height="256" alt="icon_app" src="https://github.com/user-attachments/assets/4f0286c7-65fb-49fc-9ff8-e062fbcf5a2a" />
 
 # LiH 3D Interactive Simulation (WINDOWS VERSION)
 
